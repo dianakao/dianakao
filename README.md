@@ -7,13 +7,16 @@
 </h4>
 <p align='center'>
   <a href="https://www.linkedin.com/in/dianakao1/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-2d72f8?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a> &nbsp;&nbsp;
   <a href="https://www.dianakao.com/">
-    <img src="https://img.shields.io/badge/-dianakao.com-240046?style=for-the-badge" alt="portfolio"/>
+    <img src="https://img.shields.io/badge/-dianakao.com-7282e0?style=for-the-badge" alt="portfolio"/>
   </a> &nbsp;&nbsp;
   <a href="mailto:kao.diana1@gmail.com"/>
-    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a> &nbsp;&nbsp;
+    <a href="https://kaodiana1.medium.com"/>
+    <img src="https://img.shields.io/badge/medium-181924?&style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
   </a> 
 </p>
 <hr>
