@@ -22,9 +22,10 @@ Hi, I'm [Diana Kao](https://dianakao.com/), a passionate UX Product Designer and
 I am also an open-source enthusiast and maintainer. I've learned so much from the open-source community and I love how collaboration and knowledge sharing occurs through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+![Cool Kids - Standing](https://user-images.githubusercontent.com/14967456/112775373-b7a44180-900a-11eb-8fce-fa5d2baaf31d.png)
   
-- 💬 Ask me about anything, I am happy to help
+
+- 💬 Ask me about anything - happy to help
 - 📫 How to reach me: [@dianakao1](https://www.linkedin.com/in/dianakao1/)
 - 📝 [Resume](https://drive.google.com/file/d/1Yi_XgNWSdpEUs0K-Xl2trPYr0r5cXIWQ/view?usp=sharing)
 
