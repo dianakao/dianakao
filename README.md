@@ -1,5 +1,5 @@
 <h1 align='center'>
-🌸✨ Hi, I'm Diana Kao ✨🌸
+✨ Hi, I'm Diana Kao ✨
 </h1>
 
 <h4 align='center'>
@@ -28,7 +28,7 @@
 
 Hi, I'm [Diana Kao](https://dianakao.com/), a passionate UX Product Designer and Project Manager in New York. My passion for product design lies with dreaming up ideas and making them come true with elegant and user-friendly interfaces. I take great care in researching the user stories, constructing information architecture, and creating delightful interfaces in the products I build.
 
-I am also an open-source enthusiast and maintainer. I've learned so much from the open-source community and I love how collaboration and knowledge sharing occurs through open-source.
+I am also an open-source enthusiast and maintainer. I've learned so much from the open-source community and I love collaboration and knowledge sharing.
 
 
 <img align="right" alt="Diana's Illustration" src="https://user-images.githubusercontent.com/14967456/112775373-b7a44180-900a-11eb-8fce-fa5d2baaf31d.png" />
@@ -48,7 +48,7 @@ I am also an open-source enthusiast and maintainer. I've learned so much from th
 
 **Coffee Chat:**
 
-If you like what I do, perhaps you could consider buying me a coffee/tea 🥺👉👈
+If you like what I do, perhaps you could consider chatting with me over coffee 👉👈
 
 <a href="https://www.buymeacoffee.com/dianakao" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
