@@ -35,7 +35,7 @@ I am also an open-source enthusiast and maintainer. I've learned so much from th
  
 - 💬 Ask me about anything - happy to help
 - 📫 How to reach me: [@dianakao1](https://www.linkedin.com/in/dianakao1/)
-- 📝 [Resume](https://drive.google.com/file/d/1Yi_XgNWSdpEUs0K-Xl2trPYr0r5cXIWQ/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1ieqtZO4fs1L0_xqbvY7yZ7v-y8zVGBk9/view?usp=sharing)
 
 **Languages and Tools:**  
 
